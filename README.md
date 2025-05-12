@@ -24,7 +24,21 @@
 ### [AutoSell](https://github.com/paixram/AutoSell#)
 - **Descripción:** Un sistema automatizado para la gestión de ventas.  
 - **Tecnologías utilizadas:** Java  
-- **Estado:** 🚀 Terminado
+- **Estado:** ✅ Completado
+- **Capturas de pantalla:**  
+  *(Agrega aquí una imagen o enlace a una captura de pantalla)*  
+
+### [LPPET Backend](https://github.com/xHianx/LPPET/blob/main/backend/backend.py)
+- **Descripción:** Backend para la gestión de adopciones de mascotas.  
+- **Tecnologías utilizadas:** Flask, MySQL, JSON, PyFCM.  
+- **Estado:** ✅ Completado desarrollo  
+- **Capturas de pantalla:**  
+  *(Agrega aquí una imagen o enlace a una captura de pantalla)*  
+
+### [ProyectoLP](https://github.com/xHianx/ProyectoLP)
+- **Descripción:** Proyecto académico desarrollado como parte del curso de Lenguajes de Programación.  
+- **Tecnologías utilizadas:**   
+- **Estado:** ✅ Completado  
 - **Capturas de pantalla:**  
   *(Agrega aquí una imagen o enlace a una captura de pantalla)*  
 
