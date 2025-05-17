@@ -1,56 +1,53 @@
-#  Mi Sitio Personal
+# Mi Sitio Personal
 
 ¡Bienvenido a mi repositorio personal! Aquí encontrarás información sobre mí, mis proyectos, intereses y más.
 
 ---
 
-## 📋 Contenido
-- [👤 Información Personal](#-información-personal)
-- [💻 Proyectos](#-proyectos)
-- [📚 Intereses](#-intereses)
+## Contenido
+- [Información Personal](#información-personal)
+- [Proyectos](#proyectos)
+- [Intereses](#intereses)
 
 ---
 
-## 👤 Información Personal
+## Información Personal
 - **Nombre:** José Miguel Delgado  
 - **Ocupación:** Estudiante  
 - **Lugar de residencia:** Ecuador  
-- **Sitio web:** [Tu sitio web](#)  
 
 ---
 
-## 💻 Proyectos
+## Proyectos
 
 ### [AutoSell](https://github.com/paixram/AutoSell#)
 - **Descripción:** Un sistema automatizado para la gestión de ventas.  
 - **Tecnologías utilizadas:** Java  
 - **Estado:** ✅ Completado
 - **Capturas de pantalla:**  
-  *(Agrega aquí una imagen o enlace a una captura de pantalla)*  
+ ![alt text](image-3.png)
+ ![alt text](image-4.png)
 
-### [LPPET Backend](https://github.com/xHianx/LPPET/blob/main/backend/backend.py)
-- **Descripción:** Backend para la gestión de adopciones de mascotas.  
-- **Tecnologías utilizadas:** Flask, MySQL, JSON, PyFCM.  
-- **Estado:** ✅ Completado desarrollo  
+### [LPPET ](https://github.com/xHianx/LPPET/blob/main/backend/backend.py)
+- **Descripción:** Aplicación para hacer gestión de adopciones de mascotas.  
+- **Tecnologías utilizadas:** Flask, MySQL, JSON, Dart.  
 - **Capturas de pantalla:**  
-  *(Agrega aquí una imagen o enlace a una captura de pantalla)*  
+  ![alt text](image-2.png)
 
 ### [ProyectoLP](https://github.com/xHianx/ProyectoLP)
-- **Descripción:** Proyecto académico desarrollado como parte del curso de Lenguajes de Programación.  
-- **Tecnologías utilizadas:**   
+- **Descripción:** Desarrollo de una herramienta para validar el léxico, la sintaxis y la semántica del lenguaje de programación Ruby.   
+- **Tecnologías utilizadas:**Ruby, Python
 - **Estado:** ✅ Completado  
-- **Capturas de pantalla:**  
-  *(Agrega aquí una imagen o enlace a una captura de pantalla)*  
+- **Capturas de pantalla:**  ![alt text](image.png)
 
 ---
 
-## 📚 Intereses
+## Intereses
 - Desarrollo web y móvil.  
 - Inteligencia artificial y aprendizaje automático.  
 - Diseño de interfaces de usuario (UI/UX).  
-- 
 
-## 🛠️ Tecnologías y Herramientas Aprendidas
+## Tecnologías y Herramientas Aprendidas
 
 Durante el curso, he adquirido conocimientos en diversas tecnologías, herramientas, frameworks y librerías que he aplicado en mis proyectos:
 
@@ -62,6 +59,7 @@ Durante el curso, he adquirido conocimientos en diversas tecnologías, herramien
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks y Librerías
 - **Flask**: Framework ligero de Python para el desarrollo de aplicaciones web.
