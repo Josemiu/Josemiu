@@ -1,57 +1,57 @@
-# Hola, soy José Miguel Delgado 
- 
-Estudiante de Ingeniería en Computación en la **ESPOL** (Escuela Superior Politécnica del Litoral), con experiencia en desarrollo web y móvil. Me interesa construir soluciones que combinen buen diseño con arquitecturas sólidas.
- 
+# Hi, I'm José Miguel Delgado 👋
+
+Computer Engineering student at **ESPOL** (Escuela Superior Politécnica del Litoral), with hands-on experience in web and mobile development. I like building products where solid architecture meets good design — and I'm currently deepening my skills in cloud computing (AWS) and applied AI/ML.
+
+📍 Guayaquil, Ecuador &nbsp;·&nbsp; 🌐 Open to remote opportunities &nbsp;·&nbsp; 📫 josmidel@espol.edu.ec
+
 ---
- 
-## Contenido
- 
-- [Información Personal](#información-personal)
-- [Experiencia](#experiencia)
-- [Proyectos](#proyectos)
-- [Tecnologías y Herramientas](#tecnologías-y-herramientas)
-- [Intereses](#intereses)
+
+## 🧭 Contents
+
+- [Experience](#-experience)
+- [Featured Projects](#-featured-projects)
+- [Tech Stack](#-tech-stack)
+- [GitHub Stats](#-github-stats)
+- [Interests](#-interests)
+
 ---
- 
-## Información Personal
- 
-- **Nombre:** José Miguel Delgado Bejarano
-- **Ocupación:** Estudiante de Ingeniería en Computación — ESPOL
-- **Lugar de residencia:** Guayaquil, Ecuador
-- **Contacto:** josmidel@espol.edu.ec
+
+## 💼 Experience
+
+**Frontend Developer — Pulsotek / Cámara de Comercio de Samborondón** *(Feb 2026 – May 2026)*
+Built advanced React interfaces with complex state management and business logic for financial workflows.
+
 ---
- 
-## Experiencia
- 
-### Pulsotek – Cámara de Comercio de Samborondón *(Feb 2026 – May 2026)*
-Desarrollo de interfaz avanzada en **React** con gestión de estados complejos y lógica de negocio aplicada a procesos financieros.
- 
+
+## 🚀 Featured Projects
+
+### [LPPET](https://github.com/xHianx/LPPET) — Mobile & Backend
+Cross-platform mobile app for pet adoption management, with a connected backend and real-time notifications.
+`Flutter` `Dart` `Flask` `MySQL` `MongoDB` `Firebase Cloud Messaging`
+**Status:** 🚧 In progress
+
+### Zerebralab Landing Page — Frontend
+Responsive landing page for Zerebralab, with contact form and newsletter integration, deployed on Vercel.
+`Vite` `React` `Tailwind CSS` `Firebase` `Vercel`
+**Status:** ✅ Completed
+<!-- ⚠️ Add the repo link here once available, e.g. https://github.com/xHianx/zerebralab-landing -->
+
+### [ProyectoLP](https://github.com/xHianx/ProyectoLP) — Language Processing Tool
+Tool for validating the lexical, syntactic, and semantic rules of the Ruby programming language.
+`Ruby` `Python`
+**Status:** ✅ Completed
+
+### [AutoSell](https://github.com/paixram/AutoSell) — Sales Automation
+Automated system for managing and tracking sales. Built collaboratively.
+`Java`
+**Status:** ✅ Completed
+
 ---
- 
-## Proyectos
- 
-### [LPPET](https://github.com/xHianx/LPPET/blob/main/backend/backend.py)
-- **Descripción:** Aplicación móvil multiplataforma para la gestión de adopciones de mascotas, con backend conectado y notificaciones en tiempo real.
-- **Tecnologías:** Flutter, Dart, Flask, MySQL, MongoDB, Firebase Cloud Messaging
-- **Estado:** 🚧 En desarrollo
-### [Zerebralab Landing Page](https://github.com/xHianx)
-- **Descripción:** Landing page responsiva para Zerebralab, con integración de formularios de contacto y sistema de newsletter.
-- **Tecnologías:** Vite, React, Tailwind CSS, Firebase, Vercel
-- **Estado:** ✅ Completado
-### [ProyectoLP](https://github.com/xHianx/ProyectoLP)
-- **Descripción:** Herramienta para validar el léxico, la sintaxis y la semántica del lenguaje de programación Ruby.
-- **Tecnologías:** Ruby, Python
-- **Estado:** ✅ Completado
-### [AutoSell](https://github.com/paixram/AutoSell#)
-- **Descripción:** Sistema automatizado para la gestión de ventas.
-- **Tecnologías:** Java
-- **Estado:** ✅ Completado
----
- 
-## Tecnologías y Herramientas
- 
-### Lenguajes de Programación
- 
+
+## 🛠 Tech Stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -60,39 +60,55 @@ Desarrollo de interfaz avanzada en **React** con gestión de estados complejos y
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
-### Bases de Datos
- 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
- 
-### Frameworks y Librerías
- 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
- 
-### Herramientas
- 
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- 
+
 ---
- 
-## Intereses
- 
-- Desarrollo web y móvil
-- Inteligencia artificial y aprendizaje automático
-- Diseño de interfaces de usuario (UI/UX)
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xHianx&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHianx&layout=compact&hide_border=true" height="165" alt="Top languages"/>
+</p>
+
+---
+
+## 🎯 Interests
+
+- Web & mobile development
+- Artificial intelligence & machine learning
+- Cloud computing (AWS)
+- UI/UX design
+
+---
+
+📫 **Let's connect:** [josmidel@espol.edu.ec](mailto:josmidel@espol.edu.ec)
