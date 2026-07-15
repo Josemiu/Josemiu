@@ -25,7 +25,7 @@ Built advanced React interfaces with complex state management and business logic
 
 ## 🚀 Featured Projects
 
-### [LPPET](https://github.com/xHianx/LPPET) — Mobile & Backend
+### [LPPET](https://github.com/Josemiu/LPPET) — Mobile & Backend
 Cross-platform mobile app for pet adoption management, with a connected backend and real-time notifications.
 `Flutter` `Dart` `Flask` `MySQL` `MongoDB` `Firebase Cloud Messaging`
 **Status:** 🚧 In progress
@@ -34,9 +34,9 @@ Cross-platform mobile app for pet adoption management, with a connected backend 
 Responsive landing page for Zerebralab, with contact form and newsletter integration, deployed on Vercel.
 `Vite` `React` `Tailwind CSS` `Firebase` `Vercel`
 **Status:** ✅ Completed
-<!-- ⚠️ Add the repo link here once available, e.g. https://github.com/xHianx/zerebralab-landing -->
+<!-- ⚠️ Add the repo link here once available, e.g. https://github.com/Josemiu/zerebralab-landing -->
 
-### [ProyectoLP](https://github.com/xHianx/ProyectoLP) — Language Processing Tool
+### [ProyectoLP](https://github.com/Josemiu/ProyectoLP) — Language Processing Tool
 Tool for validating the lexical, syntactic, and semantic rules of the Ruby programming language.
 `Ruby` `Python`
 **Status:** ✅ Completed
@@ -96,8 +96,8 @@ Automated system for managing and tracking sales. Built collaboratively.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xHianx&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xHianx&layout=compact&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Josemiu&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Josemiu&layout=compact&hide_border=true" height="165" alt="Top languages"/>
 </p>
 
 ---
