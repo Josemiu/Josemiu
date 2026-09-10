@@ -1,6 +1,6 @@
 # Hi, I'm José Miguel Delgado
 
-Computer Engineering student at **ESPOL** (Escuela Superior Politécnica del Litoral), with hands-on experience in web and mobile development. I like building products where solid architecture meets good design — and I'm currently deepening my skills in cloud computing (AWS) and applied AI/ML.
+Computer Science student at **ESPOL** (Escuela Superior Politécnica del Litoral), with hands-on experience in web and mobile development. I like building products where solid architecture meets good design — and I'm currently deepening my skills in cloud computing (AWS) and applied AI/ML.
 
 📍 Guayaquil, Ecuador &nbsp;·&nbsp; 🌐 Open to remote opportunities &nbsp;·&nbsp; 📫 josmidel@espol.edu.ec
 
