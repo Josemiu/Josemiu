@@ -105,7 +105,7 @@ Cross-platform mobile app for pet adoption management, connected to a Flask back
 ## Interests
 
 - Web & mobile development
-- Frontend engineering (React, Flutter)
+- Frontend engineering
 - Artificial intelligence & machine learning
 - Retrieval-Augmented Generation (RAG) & search systems
 - Multi-agent systems & agent orchestration
